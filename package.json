@@ -25,7 +25,7 @@
     "yt-search": "latest",
     "api-dylux": "latest",
     "mongoose": "latest",
-    "fb-downloader-scrapper": "^2.0.0",
+    "fb-downloader-scrapper": "latest",
     "canvas": "latest",
     "youtubedl-core": "latest"
   }
