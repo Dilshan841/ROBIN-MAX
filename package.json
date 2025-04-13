@@ -20,7 +20,7 @@
     "path": "latest",
     "node-fetch": "latest",
     "megajs": "latest",
-    "vm": "0.1.0",
+    "vm": "latest",
     "qrcode-terminal": "latest",
     "yt-search": "latest",
     "api-dylux": "latest",
